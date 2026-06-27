@@ -1,0 +1,24 @@
+body {
+    background-color: #1b1b1b; /* Cor de fundo da página */
+    font-family: Arial, sans-serif; /* Tipo de fonte */
+}
+
+/* Estilizando por Classe (usa-se ponto) */
+.texto-destaque {
+    color: #ff0000; /* Cor do texto */
+    font-size: 18px; /* Tamanho da fonte */
+}
+
+/* Estilizando por ID (usa-se cerquilha/hashtag) */
+#cabecalho-principal {
+    text-align: center; /* Alinhamento do texto */
+}
+body {
+    background-color: #141414; 
+}
+
+/* Cor e alinhamento de títulos */
+h1 {
+    color: #a0f1bb;
+    text-align: center;
+}
